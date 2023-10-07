@@ -1,2 +1,3 @@
-# FUNDAMENTALS
-Exercises made in Python for the Fundamentals of Computing class on the first semester of college 
+# FUNDAMENTENTOS
+Algorítmos feitos em Python para a disciplina de primeiro semestre Fundamentos da Computação 
+Nota final: 9,5
